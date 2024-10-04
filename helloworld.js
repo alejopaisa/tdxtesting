@@ -1,3 +1,5 @@
-function showAlert() {
-  alert("Hello World");
+// externalScript.js
+
+function testVisibility() {
+    alert("The external script is working!");
 }
